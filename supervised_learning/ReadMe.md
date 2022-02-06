@@ -1,6 +1,6 @@
 # MODULES
 
-* LESSON 1 Machine Learning Bird's Eye View
+### LESSON 1 Machine Learning Bird's Eye View
 Before diving into the many algorithms of machine learning, 
 it is important to take a step back and understand the big picture associated with the entire field.
 
