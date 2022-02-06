@@ -50,3 +50,12 @@ Learn the main metrics to evaluate models, such as accuracy, precision, recall, 
 ### LESSON 9 Training and Tuning
 Learn the main types of errors that can occur during training, and several methods to deal with them 
 and optimize your machine learning models.
+
+# NOTES
+## Lesson 2
+* Episode 16 Mini-Batch Gradient Descent Quiz
+* Episode 18 linear regression in sckitLearn
+* Episode 20 Multiple Linear Regression
+* Episode 25 Programming Quiz for "Polynomial Regression"
+* Episode 27 Programming Quiz for "Regularization"
+* Episode 28 Feature Scaling
