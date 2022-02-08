@@ -6,6 +6,7 @@ In this lesson, you were introduced to linear models. Specifically, you saw:
 * Polynomial Regression for relationships between variables that aren't linear.
 * Regularization as a technique to assure that your models will not only fit to the data available, but also extend to new situations.
 
+
 # Outro
 In this lesson, you were predicting quantitative values. Predicting quantitative values is often just considered a Regression problem. 
 In the next lesson, you will be introduced to predicting a category, which is called a Classification problem.
