@@ -51,6 +51,7 @@ Learn the main metrics to evaluate models, such as accuracy, precision, recall, 
 Learn the main types of errors that can occur during training, and several methods to deal with them 
 and optimize your machine learning models.
 
+
 # NOTES
 ## Lesson 2
 * Episode 16 Mini-Batch Gradient Descent Quiz
