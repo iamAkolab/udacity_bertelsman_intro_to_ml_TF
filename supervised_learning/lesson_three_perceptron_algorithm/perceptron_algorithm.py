@@ -1,3 +1,12 @@
+"""
+Recall that the perceptron step works as follows. For a point with coordinates (p,q)(p,q), label yy, and prediction given 
+by the equation \hat{y} = step(w_1x_1 + w_2x_2 + b) 
+
+     * If the point is correctly classified, do nothing.
+     * If the point is classified positive, but it has a negative label, subtract αp,αq, and α from w_1, w_2,w and b respectively.
+     * If the point is classified negative, but it has a positive label,add αp,αq, and α to w_1, w_2,w and b respectively.
+"""
+#############################################################################
 import numpy as np
 # Setting the random seed, feel free to change it and see different solutions.
 np.random.seed(42)
