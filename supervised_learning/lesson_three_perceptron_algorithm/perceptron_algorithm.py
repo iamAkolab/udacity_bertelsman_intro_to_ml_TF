@@ -6,6 +6,7 @@ by the equation \hat{y} = step(w_1x_1 + w_2x_2 + b)
      * If the point is classified positive, but it has a negative label, subtract αp,αq, and α from w_1, w_2,w and b respectively.
      * If the point is classified negative, but it has a positive label,add αp,αq, and α to w_1, w_2,w and b respectively.
 """
+
 #############################################################################
 import numpy as np
 # Setting the random seed, feel free to change it and see different solutions.
@@ -44,6 +45,7 @@ def perceptronStep(X, y, W, b, learn_rate = 0.01):
 # for plotting purposes.
 # Feel free to play with the learning rate and the num_epochs,
 # and see your results plotted below.
+
 def trainPerceptronAlgorithm(X, y, learn_rate = 0.01, num_epochs = 25):
     x_min, x_max = min(X.T[0]), max(X.T[0])
     y_min, y_max = min(X.T[1]), max(X.T[1])
